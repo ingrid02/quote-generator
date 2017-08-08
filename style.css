@@ -12,4 +12,10 @@ h1  {
 }
 button  {
   margin: 20px;
+  border-radius: 12px;
+}
+
+button:hover{
+  background-color: red;
+  color:black;
 }
